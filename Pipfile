@@ -9,6 +9,8 @@ flask-restplus = "*"
 flask-swagger-ui = "*"
 Werkzeug = "==0.16.1"
 flask-cors = "*"
+pytest = "*"
+requests = "*"
 
 [dev-packages]
 
