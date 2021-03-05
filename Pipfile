@@ -4,9 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-flask = "*"
+Flask = "*"
 flask-restplus = "*"
 flask-swagger-ui = "*"
+Werkzeug = "==0.16.1"
+flask-cors = "*"
 
 [dev-packages]
 
